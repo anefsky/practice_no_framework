@@ -1,0 +1,37 @@
+body {
+	width: 500px;
+	margin: 0 auto;
+	background-color: #eee;
+	border: 1px solid black;
+}
+li {
+	list-style: none;
+}
+
+#content {
+	width: 100%;
+}
+
+#content ul {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: space-between;
+}
+
+#content ul li {
+
+}
+
+#content ul li div{
+	
+}
+
+#content ul li div.label{
+	color: green;
+}
+
+#content ul li div.price{
+	color: red;
+}
